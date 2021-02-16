@@ -1,0 +1,1 @@
+Line replaced in master branch.Changed in the test branch.
