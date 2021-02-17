@@ -1,2 +1,2 @@
 # Learn_Git
-Bogdan Stachuk's course.This is the local change.
+This is the lates update for this file.
